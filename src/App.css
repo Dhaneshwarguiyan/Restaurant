@@ -1,1 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@100..900&display=swap');
 @import "tailwindcss";
+
+
+@theme {
+  --color-primary: #b62b2b;
+  --color-secondary: #FFFFFF;
+  --color-black: #272727;
+  --color-accent: #9DBA66;
+  --color-background: 255 255 255;
+  --color-foreground: 0 0 0;
+  --color-muted: #7FA33E;
+  --color-secondary-muted: #E5E5E5;
+  --color-border: 240 240 240;
+  --font-alex: "Alexandria", sans-serif;
+  --font-kalam: "Kalam", cursive;
+}
